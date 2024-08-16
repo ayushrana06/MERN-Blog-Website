@@ -82,7 +82,7 @@ export default function SignUp() {
                                 ) : (
                                     'Sign up'
                                 )
-                            };
+                            }
                         </Button>
                     </form>
                     <div className='flex gap-2 text-sm mt-5'>
